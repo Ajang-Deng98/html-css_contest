@@ -16,7 +16,7 @@ nav ul {
     text-align: right;
     text-decoration: none;
     align-items: center;
-    
+
 }
 
 nav ul li {
@@ -27,8 +27,8 @@ nav ul li {
     font-style: normal;
     text-decoration: none;
     align-items: center;
-    
-    
+
+
 }
 header, navbar, section, footer {
     margin: 20px;
@@ -43,8 +43,8 @@ header, navbar, section, footer {
     border-radius: 30px;
     box-shadow: 0 5px 10px rgba(59, 57, 39, 0.01);
 }
-    
-    
+
+
 
 p {
     font-family: "Patrick Hand", cursive;
@@ -84,9 +84,9 @@ p {
     font-size: larger;
 }
 #timothy {
-  
+
     text-align: center;
-    
+
 }
 .timothy_info{
     display: flex;
@@ -134,12 +134,12 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     text-decoration: none;
     padding: 40px;
-    
+
 }
 
 
 
-/* styles.css */
+
 
 /* Employee Card */
 .member {
@@ -190,4 +190,17 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 .graphic-designer {
     background-color: #9b5de5; /* Purple color for graphic designer */
+}
+
+.member1 {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 30px;
+    transition: box-shadow 0.3s ease;
+    
+}
+.member1:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
