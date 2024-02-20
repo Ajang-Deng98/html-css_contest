@@ -141,7 +141,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 
-/* Employee Card */
+
 .member {
     background-color: #f9f9f9;
     border-radius: 10px;
@@ -155,21 +155,20 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
-/* Employee Name */
+
 .member .employee-name {
     font-size: 1.5em;
     margin-bottom: 10px;
     color: #333;
 }
 
-/* Employee Role */
 .member .role {
     font-style: italic;
     color: #777;
     margin-bottom: 10px;
 }
 
-/* Employee Description */
+
 .member .description {
     margin-bottom: 10px;
     color: #555;
@@ -177,19 +176,19 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 .front-end-developer {
-    background-color: #70a1ff; /* Blue color for front-end developer */
+    background-color: #70a1ff; 
 }
 
 .content-writer {
-    background-color: #2a9d8f; /* Green color for content writer */
+    background-color: #2a9d8f; 
 }
 
 .tester {
-    background-color: #e63946; /* Red color for tester */
+    background-color: #e63946; 
 }
 
 .graphic-designer {
-    background-color: #9b5de5; /* Purple color for graphic designer */
+    background-color: #9b5de5; 
 }
 
 .member1 {
