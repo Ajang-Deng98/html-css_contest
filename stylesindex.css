@@ -1,0 +1,193 @@
+nav ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+header, nav, section, footer {
+    margin: 20px;
+    padding: 20px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 4;
+    text-align: right;
+    text-decoration: none;
+    align-items: center;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 50px;
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    align-items: center;
+    
+    
+}
+header, navbar, section, footer {
+    margin: 20px;
+    padding: 20px;
+}
+
+.head{
+   text-align: center;
+   font-style: italic;
+   background-color: #f0f0f0;
+   padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 5px 10px rgba(59, 57, 39, 0.01);
+}
+    
+    
+
+p {
+    font-family: "Patrick Hand", cursive;
+  font-weight: 200;
+  font-style: normal; 
+  font-size: medium;
+  font-family: "Poppins", sans-serif;
+
+}
+#featured {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.featured_info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+}
+.featured_info .info {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    background: #89c0d1;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 5px 10px rgba(59, 57, 39, 0.01);
+}
+
+.item1{
+    font-style: italic;
+    color: rgb(177, 11, 149);
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-size: larger;
+}
+#timothy {
+  
+    text-align: center;
+    
+}
+.timothy_info{
+    display: flex;
+    width: viewport-width;
+    background: #89c0d1;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(59, 57, 39, 0.01);
+}
+b {
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(212, 19, 180);
+}
+
+.follow-us {
+    text-align: center;
+    padding: 70px;
+    background-color: #f0f0f0;
+}
+
+.follow-us h2 {
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.icon-link {
+    margin: 0 10px;
+}
+
+.icon-link img {
+    width: 3cap; 
+    height: 30px;
+}
+.lastly {
+text-align: center;
+color: rgb(192, 16, 119);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.link_info {
+    text-align: center;
+    text-decoration: none;
+    padding: 40px;
+    
+}
+
+
+
+/* styles.css */
+
+/* Employee Card */
+.member {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 30px;
+    transition: box-shadow 0.3s ease;
+}
+
+.member:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Employee Name */
+.member .employee-name {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Employee Role */
+.member .role {
+    font-style: italic;
+    color: #777;
+    margin-bottom: 10px;
+}
+
+/* Employee Description */
+.member .description {
+    margin-bottom: 10px;
+    color: #555;
+}
+
+
+.front-end-developer {
+    background-color: #70a1ff; /* Blue color for front-end developer */
+}
+
+.content-writer {
+    background-color: #2a9d8f; /* Green color for content writer */
+}
+
+.tester {
+    background-color: #e63946; /* Red color for tester */
+}
+
+.graphic-designer {
+    background-color: #9b5de5; /* Purple color for graphic designer */
+}
